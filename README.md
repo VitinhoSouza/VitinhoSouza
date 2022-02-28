@@ -1,9 +1,9 @@
 # Hello 👋
-My name is Victor Souza, I'm from Brazil. I'm 21 years old. 👦
+My name is Victor Souza, I'm from Brazil. I'm 22 years old. 👦
 
 #### 🧠 "The mind is fertile, to dream there is no limit!" 🌍
-- Student of Information Systems at the Federal University of Ceará 📚
-- Web Developer at Dell Lead as scholarship holder. 👨‍💻
+- Graduated in Information Systems at the Federal University of Ceará. 📚
+- Web Developer (Front-End). 👨‍💻
 - A constantly evolving Developer. 🎯
 - [My Resume](https://resume.io/r/m7mLWgFmQ) 📃
 
